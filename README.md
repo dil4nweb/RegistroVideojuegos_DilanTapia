@@ -25,5 +25,5 @@ Aplicacion de consola desarrollada en C# (.NET 8) que implementa la persistencia
    dotnet restore
 Compila y ejecuta la aplicacion con el comando:
 
-Bash
+   ```bash
 dotnet run
