@@ -1,0 +1,23 @@
+# Registro de Videojuegos con ADO.NET y SQLite
+
+Aplicacion de consola desarrollada en C# usando ADO.NET y una base de datos local SQLite.
+
+## Requisitos
+
+- .NET 8 SDK
+- Visual Studio Code
+
+## Estructura del Proyecto
+
+- Datos/ConexionBD.cs: Gestiona la conexion con la base de datos SQLite.
+- Modelos/Videojuego.cs: Modelo de datos para los videojuegos.
+- Program.cs: Codigo principal que crea la tabla, inserta los registros y los muestra en la terminal.
+- RegistroVideojuegosDilanTapia.csproj: Archivo de configuracion del proyecto y sus dependencias.
+- videojuegos.db: Archivo de base de datos generado automaticamente al ejecutar la aplicacion.
+
+## Instrucciones para Ejecutar
+
+1. Abre la carpeta del proyecto en la terminal de Visual Studio Code.
+2. Restaura las dependencias ejecutando el siguiente comando:
+   ```bash
+   dotnet restore

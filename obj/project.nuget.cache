@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkrCDu+dwXnNSD+MBRULAlSj1lliBcfQ6bejhMmgTVqUEbNmo5UjKK5y7rOQwe+j1QUS66BuvLgHG90Nv7h7Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dilan\\Desktop\\RegistroVideojuegos_DilanTapia\\RegistroVideojuegosDilanTapia\\RegistroVideojuegosDilanTapia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dilan\\.nuget\\packages\\microsoft.data.sqlite\\8.0.10\\microsoft.data.sqlite.8.0.10.nupkg.sha512",
+    "C:\\Users\\Dilan\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.10\\microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
+    "C:\\Users\\Dilan\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Dilan\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\Dilan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Dilan\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Dilan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
